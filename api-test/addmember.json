@@ -1,0 +1,23 @@
+{
+  "open_id" : "xfdsafdsafdsajklfdsfdsafdsajfkds",
+  "m_name"  : "tom",
+  "nick_name" : "lion",
+  "m_age" : 22,
+  "m_gender" :1,
+  "m_addr" : "回龙观",
+  "m_province" : "北京",
+  "m_city" : "bj",
+  "m_area" : "changping",
+  "m_img" : "/a/b/c.jpg",
+  "m_name" : "yj",
+  "l_name" : "yj",
+  "l_pwd" :  "123456",
+  "m_phone" : 15652257705,
+  "is_del"  : 0,
+  "create_time" : "2016-04-23T18:25:43.511Z",
+  "create_name" : "admin",
+  "modify_name" : "admin",
+  "modify_time" : "2016-05-23T18:25:43.511Z",
+  "remark" : "",
+  "other" : ""
+}
